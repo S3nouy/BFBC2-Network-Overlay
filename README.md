@@ -1,11 +1,11 @@
-# BFBC2-Ping-Overlay
+# BFBC2-Network-Overlay
 ![asset](https://github.com/S3nouy/BFBC2-Ping-Overlay/assets/77050462/0228ef2a-5eac-4560-976f-6e05764fc5e4)
 
 
 # Credits
 -Senouy
 # Overview
-This custom made Ping Overlay is a Python script designed to provide real-time ping statistics for Battlefield: Bad Company 2 game servers. It uses the Tkinter library to create a simple graphical user interface (GUI) overlay that displays ping information for a selected game server. The overlay updates the ping information at regular intervals (faster that default ingame one), allowing you to monitor the stability of your connection to the chosen server.
+This custom made Network Overlay is a Python script designed to provide real-time ping statistics for Battlefield: Bad Company 2 game servers. It uses the Tkinter library to create a simple graphical user interface (GUI) overlay that displays ping information for a selected game server. The overlay updates the ping information at regular intervals (faster that default ingame one), allowing you to monitor the stability of your connection to the chosen server.
 
 `For Downloading you can find the linux binary in the Releases` 
 # How does it all work
