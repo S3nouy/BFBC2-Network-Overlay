@@ -10,12 +10,6 @@ This custom made Network Overlay is a Python script designed to provide real-tim
 `For Downloading you can find the linux binary in the Releases` 
 
 `VirusTotal report`: https://www.virustotal.com/gui/file/d8602d2ed35252bc8ae5635f428826af8ea83a3a947dcd18286d81b3840aabe3/
-# How does it all work
-![edited diagram](https://github.com/S3nouy/BFBC2-Ping-Overlay/assets/77050462/41d2692e-f78a-4050-a58c-0b7cc02b4f7a)
-
-The figure to the left shows how your machine communicates to the game server, and also retreives ping statistics. what you see is your network traffic goes all the way to the Nexus Backend Server then it gets routed to the game server you are playing on. That adds an additional 20ms to say the least to your ping which is shown in the scoreboard.
-
-Unlike when using the Overlay, you get real ping time directly from the game server without the need for your traffic to go all the way to the Nexus server, plus it updates faster than the regular one in the scoreboard. Giving you faster insights on how your network speed is performing and also helps stabilize the connection between you and the game server. Something I found out when testing it for hours.
 # How to Use
 Server Selection: Choose a game server from the dropdown menu.
 
